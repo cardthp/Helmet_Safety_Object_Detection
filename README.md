@@ -1,6 +1,9 @@
 # Helmet_Safety_Object_Detection
 
-This project is use TensorFlow. Objective for reduce accident. If program found helmet safety it will send notification to email immediately
+This project is use TensorFlow object detection. 
+Objective for reduce accident. 
+If program found helmet safety it will send notification to email immediately
+
 ![Picture1](https://user-images.githubusercontent.com/38577548/92506670-fd94e600-f22f-11ea-8e45-92dea9caec74.jpg)
 
 ![Picture5](https://user-images.githubusercontent.com/38577548/92506707-0b4a6b80-f230-11ea-808e-376c8ce43e32.jpg)
